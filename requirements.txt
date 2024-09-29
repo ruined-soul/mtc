@@ -1,0 +1,2 @@
+python-telegram-bot==13.14  # Replace with the best compatible version
+Flask==2.0.2

@@ -6,7 +6,7 @@ from telegram.ext import Updater
 app = Flask(__name__)
 
 # Initialize the Telegram bot
-TOKEN = "your-telegram-bot-token"
+TOKEN = "7410637757:AAGfu2Em_j31Qieqop9uzSum89P9SLM1J9k"
 updater = Updater(token=TOKEN, use_context=True)
 
 def start_polling():

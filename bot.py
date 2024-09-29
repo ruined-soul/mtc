@@ -10,9 +10,9 @@ from run import keep_alive  # Import the flask keep_alive function
 OWNER_ID = 1159381624  # Example owner ID, replace with your own
 
 # Private log channel and private group for join/leave logs
-LOG_CHANNEL_ID = -100123456789  # Replace with your log channel ID
-JOIN_LEAVE_GROUP_ID = -100987654321  # Replace with your group for join/leave logs
-BAN_LOG_CHANNEL_ID = -100987654322  # Replace with your ban log channel
+LOG_CHANNEL_ID = -1002393928093  # Replace with your log channel ID
+JOIN_LEAVE_GROUP_ID = -1002304513514  # Replace with your group for join/leave logs
+BAN_LOG_CHANNEL_ID = -1002320146836  # Replace with your ban log channel
 
 # Initialize the bot
 updater = Updater(os.getenv("BOT_TOKEN"), use_context=True)
